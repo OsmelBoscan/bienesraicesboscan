@@ -8,7 +8,7 @@
             </nav>
         </div>
 
-        <p class="copyright">Todos los derechos y zurdos Reservados. By: Osmel Boscan&copy;</p>
+        <p class="copyright">By: Osmel Boscan&copy;</p>
     </footer>
 
     <script src="/build/js/bundle.min.js"></script>
